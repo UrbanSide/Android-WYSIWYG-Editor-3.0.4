@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.irshulx:laser-native-editor:3.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b708f4141d9f4d4b75f15f50f467301e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b708f4141d9f4d4b75f15f50f467301e/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.irshulx/laser-native-editor/3.0.4/41ee2d10ae9eec7746be3bad1c7830f26312a813/laser-native-editor-3.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.irshulx/laser-native-editor/3.0.4/68ee2365221cbe3275eb2aca38212f3c3b4994b6/laser-native-editor-3.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
